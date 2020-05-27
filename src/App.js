@@ -15,7 +15,7 @@ function App() {
     <div className="App">
     <h1>Hello React and Redux</h1>
      <h1>Count of User:{count}</h1>
-     <SignUp />
+     <Login />
     <h2>User is: {user}</h2>
     </div>
   );
